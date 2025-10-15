@@ -1579,9 +1579,10 @@
     zod "^3.25.76"
     zod-to-json-schema "^3.24.6"
 
-"@expo/metro@../../tarballs/expo-metro-54.0.1.tgz", "@expo/metro@../tarballs/expo-metro-54.0.1.tgz", "@expo/metro@./tarballs/expo-metro-54.0.1.tgz":
-  version "54.0.1"
-  resolved "./tarballs/expo-metro-54.0.1.tgz#9c44ab02beb4bfb0590405f2f07fd737fdca5b43"
+"@expo/metro@0.0.0-20251015-d1b0095b":
+  version "0.0.0-20251015-d1b0095b"
+  resolved "https://registry.yarnpkg.com/@expo/metro/-/metro-0.0.0-20251015-d1b0095b.tgz#bf921f3ded4ed6afbef76057bdce4cde454edf9f"
+  integrity sha512-iQ7BfJ8mbAlzET4FN7TGKHnvcO6SjvxdQ/dRPMRSWFYODP0GoABXnWLwcqFytruj31XZvUI40pkhOWfsuqZvlA==
   dependencies:
     metro "0.83.2"
     metro-babel-transformer "0.83.2"
